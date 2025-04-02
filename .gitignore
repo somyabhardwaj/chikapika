@@ -1,0 +1,6 @@
+# Ignore all node_modules folders
+node_modules/
+
+# Explicitly ignore only node_modules inside subdirectories
+server/node_modules/
+vite-project/node_modules/
